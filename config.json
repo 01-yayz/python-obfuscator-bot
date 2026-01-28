@@ -1,0 +1,13 @@
+{
+  "bot_token": "8504446249:AAEdqWr0a1agNSw4j5pEFVZQnLqeM5nYoos",
+  "admin_ids": [8295141776],
+  "update_channel": "@TrafashiNight",
+  "max_file_size_mb": 10,
+  "rate_limit_per_minute": 5,
+  "obfuscation_default_level": 2,
+  "enable_advanced_mode": true,
+  "enable_auto_update": true,
+  "github_owner": "01-yazy",
+  "github_repo": "python-obfuscator-bot",
+  "update_source": "github"
+}
